@@ -1,3 +1,8 @@
+a:link {
+  color: white;
+  text-decoration: none;
+} /* prevents unvisited links from changing colors */
+
 a:visited {
   color: white;
 } /*prevents visited links from changing colors*/
