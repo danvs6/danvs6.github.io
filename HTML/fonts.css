@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "SF Pro Bold";
+  src: url("/Fonts/SFPRODISPLAYBOLD.OTF") format("opentype");
+}
+
+@font-face {
+  font-family: "SF Pro Black Italic";
+  src: url("/Fonts/SFPRODISPLAYBLACKITALIC.OTF") format("opentype");
+}
+
+@font-face {
+  font-family: "SF Pro Heavy Italic";
+  src: url("/Fonts/SFPRODISPLAYHEAVYITALIC.OTF") format("opentype");
+}
+
+@font-face {
+  font-family: "SF Pro Light Italic";
+  src: url("/Fonts/SFPRODISPLAYLIGHTITALIC.OTF") format("opentype");
+}
+
+@font-face {
+  font-family: "SF Pro Regular";
+  src: url("/Fonts/SFPRODISPLAYREGULAR.OTF") format("opentype");
+}
+
+@font-face {
+  font-family: "SF Pro Medium";
+  src: url("/Fonts/SFPRODISPLAYMEDIUM.OTF") format("opentype");
+}
