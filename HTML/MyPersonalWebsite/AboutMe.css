@@ -1,0 +1,41 @@
+a:link {
+  color: white;
+  text-decoration: none;
+} /* prevents unvisited links from changing colors */
+
+a:visited {
+  color: white;
+} /*prevents visited links from changing colors*/
+
+nav a {
+  display: inline-block;
+  background-color: dimgray;
+  border-radius: 20px;
+  padding: 10px;
+  text-decoration: none;
+  margin-right: 5px;
+  transition: box-shadow 0.3s ease;
+  margin-top: 10px;
+}
+
+nav a img {
+  margin-right: 5px;
+  margin-bottom: -1px;
+}
+
+nav a:hover {
+  box-shadow: 0px 0px 10px 2px rgb(255, 255, 255);
+}
+
+.pdf:visited {
+  color: white;
+}
+
+.pdf a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.pdf {
+  margin-bottom: 20px;
+}
